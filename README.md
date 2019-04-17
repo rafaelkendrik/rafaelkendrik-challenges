@@ -1,5 +1,5 @@
-CHALLENGE ACCEPTED
-==================
+CHALLENGES
+==========
 
 My collection of interesting open-source puzzles and real jobs challenge to test knowledge.
 
@@ -7,7 +7,7 @@ My collection of interesting open-source puzzles and real jobs challenge to test
 
 | Company | Stack | Puzzle | Puzzle Out |
 | :--- | :---: | :---: | :---: |
-| [Auth0](https://auth0.com) | Node.js, IFTTT, Webtasks, MLab | [If This Then Node.js](https://auth0.com/blog/if-this-then-node-dot-js-extending-ifttt-with-webtask-dot-io) | [rafaelkendrik/auth0-posts](https://github.com/rafaelkendrik/auth0-posts) |
+| [Auth0](https://auth0.com) | Node.js, IFTTT, Webtasks, MLab | [If This Then Node.js](https://auth0.com/blog/if-this-then-node-dot-js-extending-ifttt-with-webtask-dot-io) | [rkendrik-challenges/auth0-posts](https://github.com/rkendrik-challenges/auth0-posts) |
 
 # Puzzles
 
