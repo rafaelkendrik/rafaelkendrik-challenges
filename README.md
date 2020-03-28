@@ -1,6 +1,6 @@
 # CHALLENGES
 
-My collection of interesting open-source puzzles and real jobs challenge to test knowledge.
+Interesting worldwide open-source puzzles and real jobs challenge that I've solved to test my knowledge.
 
 ## Jobs Challenges
 
