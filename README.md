@@ -1,9 +1,8 @@
-CHALLENGES
-==========
+# CHALLENGES
 
 My collection of interesting open-source puzzles and real jobs challenge to test knowledge.
 
-# Jobs Challenge
+## Jobs Challenges
 
 | Company | Stack | Puzzle | Puzzle Out |
 | :--- | :---: | :---: | :---: |
@@ -13,6 +12,6 @@ My collection of interesting open-source puzzles and real jobs challenge to test
 [**view next jobs-challenges →**](https://github.com/rafaelkendrik/challenges/issues?q=is%3Aopen+is%3Aissue+label%3Ajobs-challenges)
 
 
-# Puzzles
+## Puzzles
 
 [**view next puzzles →**](https://github.com/rafaelkendrik/challenges/issues?q=is%3Aopen+is%3Aissue+label%3Apuzzle)
